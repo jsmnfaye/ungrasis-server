@@ -1,0 +1,4 @@
+{
+
+    "database": "mongodb://uname:password@ds147544.mlab.com:47544/softeng"
+}
